@@ -2,7 +2,7 @@ const express = require("express")
 const server = express()
 
 //configurar pasta publica
-server.use(express.static("public"))
+server.use(express.static("public")) 
 
 
 //utilizando template engine
