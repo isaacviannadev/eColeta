@@ -1,5 +1,9 @@
 # eColeta
-#### Next Level Week by Rocketseat - Aplicação desenvolvida em
+#### Next Level Week by Rocketseat 
+---
+<img src="https://github.com/isaacviannadev/eColeta/blob/master/ecoleta.png" width=900px alt="Index">
+---
+#### Aplicação desenvolvida em
 
 >HTML 5 <br>
 >CSS <br>
